@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsApp Send Message</string>
+    <string name="send_to_wa">Send To WA</string>
+</resources>
